@@ -1,12 +1,3 @@
-asdflja;lsdf
-tidsfa
+안녕하세요. git 테스트 프로젝트 입니다.
 
-df
-asd
-fest
-ss
-s
-s
-s
-
-====
+헤헷
